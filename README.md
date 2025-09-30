@@ -41,14 +41,19 @@ flowchart TD
     E --> H[Conversation Logs]
     F --> I[Streaming Response Back to User]
 ```
+---
 
 # Clone the repo
 git clone https://github.com/your-org/exeq-turbo.git
 cd exeq-turbo
 
+---
+
 # Create environment
 conda create -n exeq-turbo python=3.11 -y
 conda activate exeq-turbo
+
+---
 
 # Project environment
 exeq-turbo/
@@ -62,12 +67,17 @@ exeq-turbo/
 │── tests/                # Unit & integration tests
 │── docs/                 # Documentation
 
+---
 
 # Install dependencies
 pip install -r requirements.txt
 
+---
+
 # Running locally
 python app.py
+
+---
 
 # Example curl request
 curl -X POST http://localhost:5001/chat \
