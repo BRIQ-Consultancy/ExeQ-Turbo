@@ -56,6 +56,7 @@ conda activate exeq-turbo
 ---
 
 # Project environment
+```
 exeq-turbo/
 │── app.py                # FastAPI entrypoint
 │── requirements.txt      # Dependencies
@@ -66,6 +67,7 @@ exeq-turbo/
 │   │── models/           # LLM integrations
 │── tests/                # Unit & integration tests
 │── docs/                 # Documentation
+```
 
 ---
 
