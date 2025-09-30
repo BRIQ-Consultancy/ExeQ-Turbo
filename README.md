@@ -1,3 +1,5 @@
+![BRIQ](https://github.com/user-attachments/assets/d0ff7edc-00c5-436d-a43a-755ce101e287)
+
 # ⚡️ ExeQ Turbo
 
 > *“Let all the complexities be executed with the speed of the light.”*  
