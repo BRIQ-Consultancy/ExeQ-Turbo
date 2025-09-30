@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+ollama
+tiktoken
+pdfplumber
+python-docx
+pillow
+pydantic
+werkzeug
