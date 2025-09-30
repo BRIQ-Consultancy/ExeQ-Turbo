@@ -1,4 +1,4 @@
-![BRIQ](https://github.com/user-attachments/assets/c3a4af45-30c2-45e9-b2d9-831be9aca6c4)
+![BRIQ_logo](https://github.com/user-attachments/assets/50fe082c-141a-42a5-92d0-089bad5a0e1b)
 
 # ⚡️ ExeQ Turbo
 
