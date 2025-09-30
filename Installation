@@ -1,0 +1,10 @@
+# Clone the repo
+git clone https://github.com/your-org/exeq-turbo.git
+cd exeq-turbo
+
+# Create environment
+conda create -n exeq-turbo python=3.11 -y
+conda activate exeq-turbo
+
+# Install dependencies
+pip install -r requirements.txt
