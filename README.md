@@ -44,8 +44,10 @@ flowchart TD
 ---
 
 # Clone the repo
+```
 git clone https://github.com/your-org/exeq-turbo.git
 cd exeq-turbo
+```
 
 ---
 
