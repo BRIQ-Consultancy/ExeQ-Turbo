@@ -76,16 +76,22 @@ exeq-turbo/
 ---
 
 # Install dependencies
+```
 pip install -r requirements.txt
+```
 
 ---
 
 # Running locally
+```
 python app.py
+```
 
 ---
 
 # Example curl request
+```
 curl -X POST http://localhost:5001/chat \
      -H "Content-Type: application/json" \
      -d '{"message": "Can you tell me how fast the ExeQ-Turbo is?!"}'
+```
