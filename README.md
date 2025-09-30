@@ -50,8 +50,10 @@ cd exeq-turbo
 ---
 
 # Create environment
+```
 conda create -n exeq-turbo python=3.11 -y
 conda activate exeq-turbo
+```
 
 ---
 
